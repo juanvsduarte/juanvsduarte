@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou Juan Duarte! 💻
 
 <!--
 **juanvsduarte/juanvsduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
